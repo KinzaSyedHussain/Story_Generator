@@ -27,4 +27,4 @@ if st.button('Generate Story'):
         st.write("### Generated Story:")
         st.write(generated_story)
     else:
-        st.write("Please enter more word or phrases to generate a story.")
+        st.write("Please enter more words or phrases to generate a story.")
